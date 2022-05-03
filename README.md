@@ -1,4 +1,4 @@
-# DFNet: Towards a New Paradigm for DDoS Prevention against the Full (Unknown) Attack Spectrum
+# Effective DDoS Mitigation via Preference-Driven In-network Traffic Shaping
 
 ![avatar](./model/arc.png)
 
